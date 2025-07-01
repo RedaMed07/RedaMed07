@@ -3,9 +3,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/RedaMed07?label=Follow&style=social)](https://github.com/RedaMed07)  
 
 <h3 align="center">I’m a fullstack developer based in Tangier, Morocco, passionate about building scalable web apps and exploring new technologies. When I’m not coding, you’ll find me deep in a League of Legends or playing chess.</h3>
+
 <a href="https://linkedin.com/in/khaddar-mohamed-reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaddar-mohamed-reda" height="30" width="40" /></a>
 <a href="https://instagram.com/reda_khaddar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reda_khaddar1" height="30" width="40" /></a>
 ---
+<br/>
 
 ## 🔭 What I’m working on right now
 
