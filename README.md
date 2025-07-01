@@ -3,8 +3,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/RedaMed07?label=Follow&style=social)](https://github.com/RedaMed07)  
 
 <h3 align="center">I’m a fullstack developer based in Tangier, Morocco, passionate about building scalable web apps and exploring new technologies. When I’m not coding, you’ll find me deep in a League of Legends or playing chess.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redamed07&label=Profile%20views&color=0e75b6&style=flat" alt="redamed07" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redamed07" alt="redamed07" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=redamed07&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RedaMed07)  
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=redamed07)](https://github.com/RedaMed07)  
+
+[Instagram](https://www.instagram.com/reda_khaddar1)  
 ---
 
 ## 🔭 What I’m working on right now
