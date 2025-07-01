@@ -1,58 +1,21 @@
-<h1 align="center">Hi 👋, I'm Reda</h1>
+# 💫 About Me:
+<br>🔭 What I’m working on right now<br><br>- Developing my React competencies by building dynamic, scalable user interfaces ⚛️<br>- Enhancing backend expertise with Laravel to craft robust, maintainable web applications 🛡️<br>---<br><br>🛠️ Tech Stack<br><br>| Category             | Technologies                                                                                          |<br>|--------------- |--------------------------------------------------------|<br>| Frontend       | React · JavaScript · CSS · Bootstrap · Material UI     |<br>| Backend        | Laravel · PHP · MongoDB · MySQL · SQL Server           |<br>| DevOps & Tools | VS Code · Linux · GitHub Actions                       |<br><br>---<br><br>💼 Selected Projects<br>...<br>---<br><br><h3 align="left">📫 How to reach me</h3><br><br>- 📧 reda.khaddar1@gmail.com<br>- 📞 +212 6 17 82 49 36  <br>- 👔 LinkedIn: https://www.linkedin.com/in/khaddar-mohamed-reda<br><br>---<br><br>⚡ Fun Facts<br><br>- I’m a big fan of chess and competitive gaming.  <br>- Always eager to learn new tools and tech.  <br>- Currently working on improving my French and English communication skills.  <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/RedaMed07?label=Follow&style=social)](https://github.com/RedaMed07)  
 
-<h3 align="center">I’m a fullstack developer based in Tangier, Morocco, passionate about building scalable web apps and exploring new technologies. When I’m not coding, you’ll find me deep in a League of Legends or playing chess.</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reda_khaddar1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaddar-mohamed-reda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reda.khaddar1@gmail.com) 
 
-<a href="https://linkedin.com/in/khaddar-mohamed-reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaddar-mohamed-reda" height="30" width="40" /></a>
-<a href="https://instagram.com/reda_khaddar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reda_khaddar1" height="30" width="40" /></a>
----
-<br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RedaMed07&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RedaMed07&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedaMed07&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔭 What I’m working on right now
-
-- Developing my React competencies by building dynamic, scalable user interfaces ⚛️
-- Enhancing backend expertise with Laravel to craft robust, maintainable web applications 🛡️
----
-
-## 🛠️ Tech Stack
-
-| Category       | Technologies                                           |
-|--------------- |--------------------------------------------------------|
-| Frontend       | React · JavaScript · CSS · Bootstrap · Material UI     |
-| Backend        | Laravel · PHP · MongoDB · MySQL · SQL Server           |
-| DevOps & Tools | VS Code · Linux · GitHub Actions                       |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RedaMed07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Selected Projects
-...
----
-
-<h3 align="left">📫 How to reach me</h3>
-
-- 📧 reda.khaddar1@gmail.com
-- 📞 +212 6 17 82 49 36  
-- 👔 LinkedIn: https://www.linkedin.com/in/khaddar-mohamed-reda
-
----
-<h3 align="left">⚙️ Languages and Tools:</h3>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-<br/>
-
----
-
-## ⚡ Fun Facts
-
-- I’m a big fan of chess and competitive gaming.  
-- Always eager to learn new tools and tech.  
-- Currently working on improving my French and English communication skills.  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
