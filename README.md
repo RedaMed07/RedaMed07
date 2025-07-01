@@ -28,11 +28,11 @@
 ---
 
 <h3 align="left">📫 How to reach me</h3>
-<p align="left">
+
 - 📧 reda.khaddar1@gmail.com
 - 📞 +212 6 17 82 49 36  
 - 👔 LinkedIn: https://www.linkedin.com/in/khaddar-mohamed-reda
-</p>
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
