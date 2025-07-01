@@ -47,10 +47,6 @@
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <br/>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redamed07&show_icons=true&locale=en" alt="redamed07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redamed07&" alt="redamed07" /></p>
 ---
 
 ## ⚡ Fun Facts
