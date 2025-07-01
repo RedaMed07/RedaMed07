@@ -2,7 +2,8 @@
 <h3 align="center">I’m a fullstack developer based in Tangier, Morocco, passionate about building scalable web apps and exploring new technologies. When I’m not coding, you’ll find me deep in a League of Legends or playing chess.</h3>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reda_khaddar1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaddar-mohamed-reda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reda.khaddar1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reda_khaddar1)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaddar-mohamed-reda)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reda.khaddar1@gmail.com) 
 
 # 💫 About Me:
 <br>🔭 What I’m working on right now<br><br>- Developing my React competencies by building dynamic, scalable user interfaces ⚛️
