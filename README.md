@@ -7,7 +7,7 @@
 # 💫 About Me:
 <br>🔭 What I’m working on right now<br><br>- Developing my React competencies by building dynamic, scalable user interfaces ⚛️
 <br>- Enhancing backend expertise with Laravel to craft robust, maintainable web applications 🛡️<br><br>
-#📫 How to reach me
+📫 How to reach me
 - 📧 reda.khaddar1@gmail.com
 - 📞 ‪+212 6 17 82 49 36‬  
 - 👔 LinkedIn: https://www.linkedin.com/in/khaddar-mohamed-reda
